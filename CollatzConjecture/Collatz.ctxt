@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Collatz()
+comment1.params=number
+comment1.target=java.lang.Double[]\ run(double)
+numComments=2
